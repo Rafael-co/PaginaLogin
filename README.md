@@ -1,5 +1,5 @@
 # PaginaLogin
-Teste avaliativo, fazer uma pagina de login simples
+Teste avaliativo, fazer uma aplicaçãp de login simples
 
 # Tecnologias Usadas 
   - Mysql
