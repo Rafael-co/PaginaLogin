@@ -7,7 +7,7 @@ Teste avaliativo, fazer uma pagina de login simples
   - Java swing
 
 # Instalação da aplicação 
-- Faça o download em algum repositorio no seu dekstop
+- Faça o download do repositorio em algum diretorio no seu dekstop
 - abra com o netbeans
 - aguarde o Maven baixar as dependencias
 - ***importante*** Trocar as variável de acesso ao banco e dados da classe Conexão que se encontra no package util Link:https://github.com/Rafael-co/PaginaLogin/blob/main/src/main/java/util/Conexao.java
